@@ -1,0 +1,7 @@
+SelectionSort	FUN	0	POINTER
+num	INT	0	null
+length	INT	4	null
+i	INT	8	null
+j	INT	12	null
+first	INT	16	null
+temp	INT	20	null

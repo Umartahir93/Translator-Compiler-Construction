@@ -1,0 +1,41 @@
+1	INT	num
+2	INT	length
+3	SelectionSort , 2
+4	INT	i
+5	INT	j
+6	INT	first
+7	INT	temp
+8	t1 = length
+9	i = t1
+10	IF  I  >  0  GOTO 12
+11	GOTO  40
+12	t2 = 0
+13	first = t2
+14	t3 = 1
+15	j = t3
+16	IF  j  <=  i  GOTO 18
+17	GOTO  25
+18	IF  num[j]  <  num[first]  GOTO 20
+19	GOTO  40
+21	first = t4
+22	t6 = 1
+23	t5 = j + t6
+24	j = t5
+25	t9 = first
+26	t8 = t9
+25	t7 = num[t8]
+27	temp = t7
+28	t11 = first
+29	t10 = t11
+30	t14 = i
+31	t13 = t14
+30	t12 = num[t13]
+32	num[t10] = t12
+33	t16 = i
+34	t15 = t16
+35	t17 = temp
+36	num[t15] = t17
+37	t19 = 1
+38	t18 = i - t19
+39	i = t18
+40	endFunc

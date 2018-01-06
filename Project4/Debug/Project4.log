@@ -1,0 +1,22 @@
+﻿  CompilerConstruction.cpp
+c:\users\umar tahir\desktop\compilerassignment\project4\parser.h(175): warning C4018: '<': signed/unsigned mismatch
+c:\users\umar tahir\desktop\compilerassignment\project4\parser.h(217): warning C4018: '<': signed/unsigned mismatch
+c:\users\umar tahir\desktop\compilerassignment\project4\compilerconstruction.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\umar tahir\desktop\compilerassignment\project4\compilerconstruction.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\umar tahir\desktop\compilerassignment\project4\compilerconstruction.cpp(154): warning C4018: '<': signed/unsigned mismatch
+c:\users\umar tahir\desktop\compilerassignment\project4\compilerconstruction.cpp(162): warning C4018: '<': signed/unsigned mismatch
+c:\users\umar tahir\desktop\compilerassignment\project4\compilerconstruction.cpp(220): warning C4018: '<': signed/unsigned mismatch
+c:\users\umar tahir\desktop\compilerassignment\project4\compilerconstruction.cpp(224): warning C4018: '<': signed/unsigned mismatch
+c:\users\umar tahir\desktop\compilerassignment\project4\compilerconstruction.cpp(262): warning C4715: 'CompilerConstruction::lexical_output': not all control paths return a value
+c:\users\umar tahir\desktop\compilerassignment\project4\parser.h(589): warning C4715: 'Parser::VD': not all control paths return a value
+c:\users\umar tahir\desktop\compilerassignment\project4\parser.h(638): warning C4715: 'Parser::BR': not all control paths return a value
+c:\users\umar tahir\desktop\compilerassignment\project4\parser.h(1031): warning C4715: 'Parser::E': not all control paths return a value
+c:\users\umar tahir\desktop\compilerassignment\project4\parser.h(988): warning C4715: 'Parser::S': not all control paths return a value
+c:\users\umar tahir\desktop\compilerassignment\project4\parser.h(1101): warning C4715: 'Parser::TP': not all control paths return a value
+c:\users\umar tahir\desktop\compilerassignment\project4\parser.h(1178): warning C4715: 'Parser::EP': not all control paths return a value
+c:\users\umar tahir\desktop\compilerassignment\project4\parser.h(1454): warning C4715: 'Parser::FP': not all control paths return a value
+c:\users\umar tahir\desktop\compilerassignment\project4\parser.h(1384): warning C4715: 'Parser::F': not all control paths return a value
+c:\users\umar tahir\desktop\compilerassignment\project4\parser.h(1074): warning C4715: 'Parser::E1': not all control paths return a value
+c:\users\umar tahir\desktop\compilerassignment\project4\parser.h(1421): warning C4715: 'Parser::PL': not all control paths return a value
+  Project4.vcxproj -> C:\Users\Umar Tahir\Desktop\CompilerAssignment\Debug\Project4.exe
+  Project4.vcxproj -> C:\Users\Umar Tahir\Desktop\CompilerAssignment\Debug\Project4.pdb (Full PDB)
